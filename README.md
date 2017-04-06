@@ -1,1 +1,3 @@
 # weatherApp
+
+get weather information.
